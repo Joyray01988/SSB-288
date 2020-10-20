@@ -182,7 +182,6 @@ a,a:hover{
 	font-size: 16px;
 	line-height: 26px;
 	color: #fff;
-
 }
 .footer-section .list a:hover{
 	color: #fcdb00;
@@ -233,10 +232,19 @@ a,a:hover{
 		font-size: 28px;
 		
 	}
-	.footer-section .form-inline .btn-primary{
-		margin-left: 30px;
+	.footer-section .address p{
+		text-align: center !important;
 	}
-  
+	.footer-section .social-img{
+	 	text-align: center !important;
+	}
+	.footer-section .list a{
+		text-align: center !important;
+	}
+	.footer-section .list{
+		text-align: center !important;
+	}
+	 
 }
 
 /* 
@@ -273,9 +281,19 @@ a,a:hover{
 	.footer-section .title h1{
 		font-size: 28px;
 	}
-	.footer-section .form-inline .btn-primary{
-		margin-left: 30px;
+	.footer-section .address p{
+		text-align: center !important;
 	}
+	.footer-section .social-img{
+	 	text-align: center !important;
+	}
+	.footer-section .list a{
+		text-align: center !important;
+	}
+	.footer-section .list{
+		text-align: center !important;
+	}
+	
 	
    
 }
@@ -305,9 +323,10 @@ a,a:hover{
 	.img-fluid {
 	    padding-left: 0px;
 	}
-	.footer-section .form-inline .btn-primary{
-		margin-left: 140px;
+	.footer-section .address p{
+		text-align: center !important;
 	}
+	
 	
 	  
 }
